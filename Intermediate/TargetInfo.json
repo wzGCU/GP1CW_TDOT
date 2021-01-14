@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ManoScape",
+			"Path": "C:\\Users\\wjmzb\\Documents\\Unreal Projects\\ManoScape\\Source\\ManoScape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ManoScapeEditor",
+			"Path": "C:\\Users\\wjmzb\\Documents\\Unreal Projects\\ManoScape\\Source\\ManoScapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

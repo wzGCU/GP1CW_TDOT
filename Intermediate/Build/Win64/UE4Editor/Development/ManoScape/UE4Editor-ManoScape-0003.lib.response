@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ManoScape-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\ManoScapeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\ManoScape.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\MyCharacter.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\MyCharacterMovementComponent.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\ManoScape.init.gen.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\MyCharacter.gen.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\MyCharacterMovementComponent.gen.cpp.obj"
+"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\Default.rc2.res"
+/OUT:"C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_ManoScape

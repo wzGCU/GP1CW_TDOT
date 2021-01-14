@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\wjmzb\\Documents\\Unreal Projects\\ManoScape\\Source\\ManoScape\\ManoScape.Build.cs",
+		"C:\\Users\\wjmzb\\Documents\\Unreal Projects\\ManoScape\\Source\\ManoScape.Target.cs",
+		"C:\\Users\\wjmzb\\Documents\\Unreal Projects\\ManoScape\\Source\\ManoScapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

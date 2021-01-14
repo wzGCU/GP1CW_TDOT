@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\wjmzb\Documents\Unreal Projects\ManoScape).
+  Deleted hot-reload file: C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Binaries\Win64\UE4Editor-ManoScape-0003.dll
+  Deleted hot-reload file: C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape-0003.lib
+  Building ManoScapeEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-ManoScape.lib
+       Creating library C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape.lib and object C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape.exp
+    [2/3] UE4Editor-ManoScape.dll
+       Creating library C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape.suppressed.lib and object C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\UE4Editor-ManoScape.suppressed.exp
+    [3/3] ManoScapeEditor.target
+  Total time in Parallel executor: 1.05 seconds
+  Total execution time: 1.74 seconds

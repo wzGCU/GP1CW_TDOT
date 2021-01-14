@@ -1,0 +1,3 @@
+C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\Definitions.ManoScape.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

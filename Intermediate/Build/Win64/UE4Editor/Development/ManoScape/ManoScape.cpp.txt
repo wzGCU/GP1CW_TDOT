@@ -1,0 +1,2 @@
+C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Intermediate\Build\Win64\UE4Editor\Development\ManoScape\Definitions.ManoScape.h
+C:\Users\wjmzb\Documents\Unreal Projects\ManoScape\Source\ManoScape\ManoScape.h
